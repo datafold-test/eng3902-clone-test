@@ -1,2 +1,2 @@
-best value: 10
+best value: 12
 best price: $$$
