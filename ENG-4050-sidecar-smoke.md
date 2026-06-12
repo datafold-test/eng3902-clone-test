@@ -1,0 +1,1 @@
+# Sidecar refactor smoke test
